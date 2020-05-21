@@ -1,5 +1,6 @@
 $(document).ready(function () {
   $(".expandable").on("click", function () {
+    $(this).find(".button").hide(0);
     $(this).find(".expandable-content").slideDown(200);
   });
 
