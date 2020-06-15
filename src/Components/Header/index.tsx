@@ -8,7 +8,7 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 const Header = () => {
     return (
         <>
-            <Link to="/">
+            <Link to="/portfolio">
                 <div className="header">
                     <div className="headshot">
                         <img src="https://res.cloudinary.com/dble8dnul/image/upload/v1592183016/portfolio/headshot_gsc42z.png"></img>
