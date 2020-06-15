@@ -1,0 +1,98 @@
+{
+    "items": [
+        {
+            "title": "Dropy",
+            "description": "Dropy é um notepad online com ferramentas colaborativas que permite editar e salvar textos na nuvem.",
+            "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/v1592182232/portfolio/Untitled-2_vybc0l.jpg",
+            "images": [
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167420/portfolio/dropy2_u7mbkx.png",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167419/portfolio/dropy1_t0gmrh.png",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167420/portfolio/dropy3_sziswk.png"
+            ],
+            "stack": [
+                "React",
+                "MongoDB",
+                "NodeJS"
+            ],
+            "link": "https://dropy.app",
+            "date": "2020",
+            "status": "active"
+        },
+        {
+            "title": "Dropy Native",
+            "description": "Aplicativo do serviço web do Dropy incluindo todas as suas funcionalidades, criado para Android",
+            "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/v1592167420/portfolio/dropy_uxsk3v.png",
+            "images": [
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167421/portfolio/dropy6_wv9g76.png",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167425/portfolio/dropy5_bdhycg.png",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167421/portfolio/dropy4_bwysmn.png"
+            ],
+            "stack": [
+                "React Native",
+                "MongoDB",
+                "NodeJS"
+            ],
+            "link": "https://play.google.com/store/apps/details?id=app.dropy&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+            "date": "2020",
+            "status": "active"
+        },
+        {
+            "title": "Castn",
+            "description": "Castn é um aplicativo de podcasts desenvolvido para android onde você pode ver todos os episodios de suas inscrições em uma timeline",
+            "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/v1592167424/portfolio/castn_kk7wfm.png",
+            "images": [
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167420/portfolio/castn_1_alhs7x.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167419/portfolio/castn_6_fbfaxq.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167419/portfolio/castn_7_ynvbyd.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167419/portfolio/castn_5_hqbmhz.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167418/portfolio/castn_4_oc8v8t.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167418/portfolio/castn_3_qr1zyp.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167418/portfolio/castn_2_xpnt0l.jpg"
+            ],
+            "stack": [
+                "Java",
+                "Android Studio",
+                "Firebase"
+            ],
+            "link": "https://play.google.com/store/apps/details?id=com.wslclds.castn",
+            "date": "2018",
+            "status": "active"
+        },
+        {
+            "title": "Tucano for Twitter",
+            "description": "Tucano é um cliente para twitter completo desenvolvido para android que inclui temas personalizados, lista de usuarios favoritos, analytics e mais.",
+            "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/v1592167421/portfolio/tucano_hxfrx2.png",
+            "images": [
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167422/portfolio/tucano_2_emibu8.png",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167422/portfolio/tucano_3_fowl8p.png",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167421/portfolio/tucano_4_uxh4ak.png",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592167421/portfolio/tucano_1_hmyd1i.png"
+            ],
+            "stack": [
+                "Java",
+                "Android Studio",
+                "Firebase"
+            ],
+            "link": "",
+            "date": "2017",
+            "status": "discontinued"
+        },
+        {
+            "title": "My Folder",
+            "description": "My Folder é um app para iOS criado para gerenciamento de arquivos integrado com diversos serviços (como dropbox, box e onedrive) antes da existencia de soluções nativas",
+            "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/v1592181841/portfolio/Untitled-1_xpznvd.png",
+            "images": [
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592181649/portfolio/myfolder2_p6iuik.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592181649/portfolio/myfolder1_vzm8yf.jpg",
+                "https://res.cloudinary.com/dble8dnul/image/upload/v1592181651/portfolio/myfolder3_cf4hjv.jpg"
+            ],
+            "stack": [
+                "Objective-C",
+                "XCode"
+            ],
+            "link": "",
+            "date": "2015",
+            "status": "discontinued"
+        }
+    ]
+}

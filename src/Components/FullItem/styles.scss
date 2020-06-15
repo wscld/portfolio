@@ -1,0 +1,54 @@
+@import "../../values";
+
+.full-item {
+    align-items: stretch ;
+    color: $text-color;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: $shadow;
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+    .carousel-img {
+        height: 400px;
+    }
+    .content {
+        padding: 15px;
+    }
+    .title {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .description {
+        opacity: 0.7;
+    }
+    .stack {
+        padding: 20px;
+        background-color: $background-color;
+        border-radius: 15px;
+        margin-top: 15px;
+    }
+    .more {
+        padding: 15px;
+        background-color: $primary-color;
+        color: white;
+        display: inline-block;
+        margin-top: 15px;
+        transition: 0.2s;
+        border-radius: 5px;
+    }
+    .more:hover {
+        opacity: 0.8;
+    }
+    .BrainhubCarousel__arrows {
+        background-color: $primary-color;
+        transition: 0.2s;
+    }
+    .BrainhubCarousel__arrows:hover {
+        background-color: $primary-color;
+        opacity: 0.8;
+    }
+}

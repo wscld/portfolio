@@ -1,0 +1,37 @@
+@import "../../values";
+
+.github-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: $text-color;
+
+    .content {
+        padding: 25px;
+    }
+    .title {
+        display: flex;
+        align-items: center;
+        .name {
+            color: $secondary-color;
+            font-size: 20px;
+            font-weight: 700;
+        }
+        .date{
+            font-size: 15px;
+            margin-left: 15px;
+            opacity: .8;
+        }
+    }
+    .description {
+        opacity: .8;
+    }
+}
+
+
+@media only screen and (max-width: 700px) {
+    .item{
+        display: flex;
+        flex-direction: column;
+    }
+}

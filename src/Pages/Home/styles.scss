@@ -1,0 +1,18 @@
+@import "../../values";
+
+.list {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: $shadow;
+    margin-bottom: 45px;
+    margin-top: 15px;
+    .item,.github-item{
+        border-bottom: 1px solid $background-color-darker;
+    }
+    .item:last-child,.github-item:last-child{
+        border-bottom: 0px;
+    }
+}
+.list-title{
+    font-weight: bold;
+}

@@ -1,0 +1,63 @@
+@import "../../values";
+
+.header {
+    color: $text-color;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    border-radius: 15px;
+
+    .headshot {
+        img {
+            background-color: $primary-color;
+            border-radius: 50%;
+            width: 190px;
+            height: 190px;
+            margin-right: 20px;
+        }
+    }
+    .name {
+        color: $secondary-color;
+        font-weight: 900;
+        font-size: 90px;
+        transition: .2s;
+    }
+    .tagline {
+        margin-top: -3px;
+        margin-left: 13px;
+        opacity: 0.7;
+    }
+}
+.social {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    .icon {
+        border-radius: 50%;
+        margin: 5px;
+        border:3px solid $primary-color;
+        color:$primary-color;
+        padding: 15px;
+        width: 30px;
+        height: 30px;
+        transition: .2s;
+    }
+    .icon:hover{
+        background-color: $primary-color;
+        color: white;
+    }
+}
+
+.header:hover{
+    .name{
+        opacity: .8;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .header{
+        display: flex;
+        flex-direction: column;
+        }
+}
