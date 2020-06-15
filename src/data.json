@@ -60,7 +60,7 @@
         },
         {
             "title": "Tucano for Twitter",
-            "description": "Tucano é um cliente para twitter completo desenvolvido para android que inclui temas personalizados, lista de usuarios favoritos, analytics e mais.",
+            "description": "Tucano é um cliente para twitter completo. Desenvolvido para android, inclui temas personalizados, lista de usuarios favoritos, analytics e mais.",
             "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/v1592167421/portfolio/tucano_hxfrx2.png",
             "images": [
                 "https://res.cloudinary.com/dble8dnul/image/upload/v1592167422/portfolio/tucano_2_emibu8.png",
@@ -79,7 +79,7 @@
         },
         {
             "title": "My Folder",
-            "description": "My Folder é um app para iOS criado para gerenciamento de arquivos integrado com diversos serviços (como dropbox, box e onedrive) antes da existencia de soluções nativas",
+            "description": "My Folder foi um app para iOS criado para gerenciamento de arquivos integrado com diversos serviços (dropbox, box e onedrive) antes da existencia de soluções nativas",
             "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/v1592181841/portfolio/Untitled-1_xpznvd.png",
             "images": [
                 "https://res.cloudinary.com/dble8dnul/image/upload/v1592181649/portfolio/myfolder2_p6iuik.jpg",
@@ -89,6 +89,22 @@
             "stack": [
                 "Objective-C",
                 "XCode"
+            ],
+            "link": "",
+            "date": "2015",
+            "status": "discontinued"
+        },
+        {
+            "title": "Favbox.co",
+            "description": "Favbox foi o primeiro 'webapp' que desenvolvi e publiquei. Criado para salvar seus links favoritos na nuvem e acessar de qualquer dispositivo",
+            "thumbnail": "https://res.cloudinary.com/dble8dnul/image/upload/c_fill,h_600,w_600,x_53,y_0/v1592192955/portfolio/image_itulug.jpg",
+            "images": [
+                "https://res.cloudinary.com/dble8dnul/image/upload/c_fill,h_600,w_600,x_53,y_0/v1592192955/portfolio/image_itulug.jpg"
+            ],
+            "stack": [
+                "PHP",
+                "MySQL",
+                "JavaScript"
             ],
             "link": "",
             "date": "2015",

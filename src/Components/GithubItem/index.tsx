@@ -11,7 +11,6 @@ const GithubItem = (props: any) => {
                 <a href={props.link} target="_blank">
                     <div className="title">
                         <div className="name">{props.title}</div>
-                        <div className="date">{props.date} - {props.status}</div>
                     </div>
                 </a>
                 <TextTruncate
