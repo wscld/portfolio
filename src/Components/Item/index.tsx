@@ -21,7 +21,7 @@ const Item = (props: any) => {
                     containerClassName="description"
                     text={props.description}
                 />               
-                <Link to={"/p/"+props.index}>
+                <Link to={"/portfolio/p/"+props.index}>
                     <div className="more">Ler mais</div>
                 </Link>
             </div>
