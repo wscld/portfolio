@@ -12,8 +12,8 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/p/:id" children={<Product />} />
-        <Route path="/" children={<Home />} />
+        <Route path="/portfolio/p/:id" children={<Product />} />
+        <Route path="/portfolio/" children={<Home />} />
       </Switch>
     </Router>
   );

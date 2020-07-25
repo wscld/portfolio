@@ -5,16 +5,18 @@
     align-items: center;
     justify-content: space-between;
     color: $text-color;
-    padding: 30px;
-    padding-top: 35px;
-    padding-bottom: 35px;
 
     .image {
+        padding: 20px;
+        background-color: $primary-color;
+        border-radius: 10px;
+        margin: 15px;
         img {
             max-width: 280px;
             max-height: 280px;
             border-radius: 15px;
-            border: 3px solid $background-color;
+            box-shadow:  6px 6px 20px #2e74ad, 
+             -6px -6px 20px #3a90d7;
         }
     }
     .content {
@@ -28,14 +30,14 @@
             font-size: 30px;
             font-weight: 700;
         }
-        .date{
+        .date {
             font-size: 15px;
             margin-left: 15px;
-            opacity: .8;
+            opacity: 0.8;
         }
     }
     .description {
-        opacity: .8;
+        opacity: 0.8;
     }
     .more {
         padding: 15px;
@@ -47,13 +49,12 @@
     }
     .more:hover {
         background-color: $primary-color;
-        color:white;
+        color: white;
     }
 }
 
-
 @media only screen and (max-width: 700px) {
-    .item{
+    .item {
         display: flex;
         flex-direction: column;
     }

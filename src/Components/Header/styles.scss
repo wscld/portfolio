@@ -8,11 +8,10 @@
     padding: 20px;
     background-color: white;
     margin-bottom: 40px;
-    background-position: top;
+    background-position: bottom;
     background-size: cover;
-    background-image: url("https://res.cloudinary.com/dble8dnul/image/upload/o_54/a_0/v1592238774/portfolio/bg_fdwevw.png");
-    box-shadow: $shadow;
-
+    background-image: url("https://res.cloudinary.com/dble8dnul/image/upload/o_8,q_52/v1592348311/portfolio/bg_nd9gey.png");
+    box-shadow: 17px 17px 34px #dedede, -17px -17px 34px #ffffff;
     .headshot {
         img {
             background-color: $primary-color;
@@ -26,7 +25,7 @@
         color: $secondary-color;
         font-weight: 900;
         font-size: 90px;
-        transition: .2s;
+        transition: 0.2s;
     }
     .tagline {
         margin-top: 3px;
@@ -41,29 +40,29 @@
     .icon {
         border-radius: 50%;
         margin: 5px;
-        border:3px solid $primary-color;
-        color:$primary-color;
+        border: 3px solid $primary-color;
+        color: $primary-color;
         padding: 15px;
         width: 30px;
         height: 30px;
-        transition: .2s;
+        transition: 0.2s;
     }
-    .icon:hover{
+    .icon:hover {
         background-color: $primary-color;
         color: white;
     }
 }
 
-.header:hover{
-    .name{
-        opacity: .8;
+.header:hover {
+    .name {
+        opacity: 0.8;
     }
 }
 
 @media only screen and (max-width: 700px) {
-    .header{
+    .header {
         display: flex;
         flex-direction: column;
         text-align: center;
-        }
+    }
 }
