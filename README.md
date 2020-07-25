@@ -27,7 +27,3 @@ npm run test
 * Website: https://wscld.github.io/portfolio/
 * Github: [@wscld](https://github.com/wscld)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
